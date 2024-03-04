@@ -4,9 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install-clinet" :"cd vue-project && npm install ",
-    "build-client" : "cd vue-project && npm run build",
-    "start-client": "cd vue-project && npm run dev"
+    "install-clinet" :" cd kiss && cd vue-project && npm install ",
+    "build-client" : "cd kiss && cd vue-project && npm run build",
+    "start-client": " cd kiss && cd vue-project && npm run dev"
   },
   "author": "",
   "license": "ISC",
